@@ -16,6 +16,11 @@ final List _shopitems= [
   ['Chicken', "10.00", "lib/images/chicken.png", Colors.brown],
   ['Banana', "7.00", "lib/images/banana.png", Colors.yellow],
   ['Banana', "7.00", "lib/images/banana.png", Colors.yellow],
+  ['Special Chicken', "10.00", "lib/images/chicken.png", Colors.brown],
+  ['Special Banana', "7.00", "lib/images/banana.png", Colors.yellow],
+  ['Avocado', "4.00", "lib/images/avocado.png", Colors.green],
+  ['Water', "3.00", "lib/images/water.png", Colors.blue],
+  ['Chicken', "10.00", "lib/images/chicken.png", Colors.brown],
   ['Banana', "7.00", "lib/images/banana.png", Colors.yellow],
 
 
