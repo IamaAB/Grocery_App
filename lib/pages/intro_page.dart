@@ -33,7 +33,12 @@ class Intro_page extends StatelessWidget {
                 ,),
             ),
             // Spacer()
-            Text("Fresh Items Everyday "),
+            Text("Fresh Items Everyday ",
+            style: TextStyle(
+              fontFamily: 'NotoSerif',
+              fontSize: 16
+            ),
+            ),
             Padding(
               padding: const EdgeInsets.only(top: 49.0),
               child: GestureDetector(
